@@ -1,0 +1,29 @@
+.web-agency-body{
+    background-image: url("./img/faded-office.png");
+    background-size: cover;
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: #020202; 
+}
+.hero-section{
+    text-align: left;
+}
+.hero-title{
+    font-weight: 700;
+    color: #020202;
+    font-size: 50px;
+}
+
+.hero-subtitle{
+    text-align: left;
+    font-weight:500;
+}
+.underline{
+    border-bottom: 4px solid #0ea5e9;
+}
+.hero-button{
+    padding: 15px 20px;
+    background-color: #0ea5e9;
+    color:#fff;
+    font-weight: 900; 
+    border: none;
+}
